@@ -1,6 +1,6 @@
 six==1.17.0
 winacl==0.1.9
-asysocks==0.2.13
+asysocks==0.2.18
 asyauth==0.0.21
 pyopenssl==25.0.0
 ldap3==2.9.1
